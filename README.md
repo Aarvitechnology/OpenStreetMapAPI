@@ -1,2 +1,13 @@
-# OpenStreetMapAPI
-OSM - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+Libraries :
+
+To Draw a Map leaflet library is used. 
+Leaflet : open-source JavaScript library for interactive maps
+https://leafletjs.com/
+
+To search a location OSM provides Nominatim as a search engine
+Nominatim : Nominatim is a search engine for OpenStreetMap data
+https://nominatim.openstreetmap.org/
+
+Mandatory Things : 
+- Do not chnage id of div only map id is working right now.
+- Do not forgor to apply height & width to thew div otherwise map is not goint to displayed.
