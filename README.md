@@ -15,10 +15,18 @@ https://nominatim.openstreetmap.org/
 - Do not change id of div only map id is working right now.
 - Do not forgot to apply height & width to the div otherwise map is not goint to display.
 
+**Basic Level Functionality Includes Following Things :**
+- set up a simple map using the Leaflet JavaScript library
+- load marker locations from a JSON file
+- change the marker icon
+- have the markers show some data when clicked in a popup
+
 ## [See Basic Level Functionality In a Live Application](https://aarvitech.com/Research/OSM/)
 
 **Advance Level Functionality Includes Following Things :**
-- Common Class To Genrate a map
+- All Basic Functionality in a common function
+- Common Function To Genrate a map
 - Radius Functionality
+- on hover of marker show data in tooltip
 
 ## [See Advance Level Functionality In a Live Application](https://aarvitech.com/Research/OSM/OpenStreet.html)
