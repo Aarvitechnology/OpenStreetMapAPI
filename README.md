@@ -6,7 +6,8 @@ To Draw a Map leaflet library is used.
 <a href="https://leafletjs.com/" target="_blank"> Leaflet </a>: open-source JavaScript library for interactive maps
 
 
-To search a location OSM provides Nominatim as a search engine
+To search a location OSM provides Nominatim as a search engine.
+
 Nominatim : Nominatim is a search engine for OpenStreetMap data
 https://nominatim.openstreetmap.org/
 
